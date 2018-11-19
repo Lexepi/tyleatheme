@@ -1,12 +1,12 @@
 [ 
     { 
-        "author" : "Akenstorm", 
-        "name" : "darkStoneTacticWood", 
-        "keyWords" : "Wood", 
-        "version" : "1.0.4", 
-        "dofusVersion" : "2.44", 
-        "description" : "darkStone Theme with a custom tactic mode (Wood)", 
-        "url" : "https://github.com/Lexepi/tyleatheme/raw/master/theme.json", 
+        "author" : "Lexepi", 
+        "name" : "SyleasCustomTheme", 
+        "keyWords" : "Sylea", 
+        "version" : "1.0", 
+        "dofusVersion" : "2.40", 
+        "description" : "Sylea custom Theme", 
+        "url" : "https://github.com/Lexepi/tyleatheme/blob/master/Akenstorm_darkStoneTacticDesert.zip", 
         "previewUrl" : "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjNm6Hio-HeAhUFaBoKHZ93BHUQjRx6BAgBEAU&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FDofus&psig=AOvVaw3-DmN08_04fMnREtihRfYn&ust=1542745171906004", 
         "creationDate" : "19/11/2018", 
         "modificationDate" : "19/11/2018" 
