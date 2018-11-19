@@ -1,0 +1,14 @@
+[
+    {
+        "author" : "Lexepi", 
+        "name" : "Syleatheme", 
+        "keyWords" : "Sylea,Dofus",
+        "version" : "1.0.0",
+        "dofusVersion" : "2.40", 
+        "description" : "Description of my theme", 
+        "url" : "https://github.com/Lexepi/tyleatheme/blob/master/Akenstorm_darkStoneTacticDesert.zip?raw=true",
+        "previewUrl" : "http://mywebsite.com/preview.jpg", 
+        "creationDate" : "19/11/2018", 
+        "modificationDate" : "19/11/2018"
+    } 
+]
